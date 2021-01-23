@@ -1,0 +1,13 @@
+pip install selenium
+pip install linkedin-scraper
+pip install pattern
+pip install bs4
+pip install itertools
+pip install textdistance
+pip install string
+pip install statistics
+pip install os
+pip install re
+pip install pandas
+pip install google-api-python-client
+pip install gensim
