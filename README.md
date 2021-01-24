@@ -43,6 +43,9 @@ The notebook in `4.GUI_demo` folder shows a GUI demo of PaySec.
 
 # Team Members
 Julian Ando
+
 Hiroyuki Tsujikami 
+
 Yang Yue
+
 Ng Jian Lai
